@@ -2,7 +2,7 @@
 
 Utilização do Maven para formatar datas, cpf e números nacionais
 
-[Busca do CEP no site dos Correios](CEP.java)
+[Busca do CEP no site dos Correios](maven/brasileirice/src/main/java/br/com/alura/CEP.java)
 
 [Formatação de datas e hora](Data.java)
 
